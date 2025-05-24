@@ -1,0 +1,14 @@
+{
+  "cicada_noon": {
+    "sounds": [ "higurashi:cicada_noon" ],
+    "subtitle": "subtitles.higurashi.cicada_noon"
+  },
+  "cicada_dusk": {
+    "sounds": [ "higurashi:cicada_dusk" ],
+    "subtitle": "subtitles.higurashi.cicada_dusk"
+  },
+  "cicada_dawn": {
+    "sounds": [ "higurashi:cicada_dawn" ],
+    "subtitle": "subtitles.higurashi.cicada_dawn"
+  }
+}
